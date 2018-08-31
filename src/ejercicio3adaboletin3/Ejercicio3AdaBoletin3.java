@@ -5,6 +5,8 @@
  */
 package ejercicio3adaboletin3;
 
+import java.util.*;
+
 /**
  *
  * @author Amarico
@@ -16,6 +18,10 @@ public class Ejercicio3AdaBoletin3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        //  Diseña una aplicación que muestre las tablas de multiplicar del 1 al 10.
+        
+        
     }
     
 }
