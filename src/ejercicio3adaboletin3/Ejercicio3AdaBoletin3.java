@@ -32,7 +32,7 @@ public class Ejercicio3AdaBoletin3 {
             for (int j = 0; j < 10; j++) {
                 
                 tabla = i * j;
-                Creo una variable de tipo entero llamada tabla
+                //Creo una variable de tipo entero llamada tabla
                 System.out.println("\nEl resultado de multiplicar " + i + " * " + j + " es: " + tabla);
                 
             }
