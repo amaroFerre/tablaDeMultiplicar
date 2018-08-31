@@ -23,7 +23,21 @@ public class Ejercicio3AdaBoletin3 {
         
         // Creo una variable de tipo entero llamada tabla
         
+        int tabla;
         
+        // empiezo el bucle
+        
+        for (int i = 0; i < 10; i++) {
+            
+            for (int j = 0; j < 10; j++) {
+                
+                tabla = i * j;
+                Creo una variable de tipo entero llamada tabla
+                System.out.println("\nEl resultado de multiplicar " + i + " * " + j + " es: " + tabla);
+                
+            }
+            
+        }
         
         
     }
