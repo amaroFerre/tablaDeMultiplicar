@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ejercicio3adaboletin3;
-
+// Importo el paquete java.util para poder utilizar la clase Scanner
 import java.util.*;
 
 /**
@@ -20,6 +20,10 @@ public class Ejercicio3AdaBoletin3 {
         // TODO code application logic here
         
         //  Diseña una aplicación que muestre las tablas de multiplicar del 1 al 10.
+        
+        // Creo una variable de tipo entero llamada tabla
+        
+        
         
         
     }
